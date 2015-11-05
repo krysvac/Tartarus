@@ -1,0 +1,1 @@
+Tartarus is a small PHP-Template/Framework made as a part of a school course
